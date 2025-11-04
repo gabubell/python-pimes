@@ -1,0 +1,163 @@
+{
+  "Alimentos": {
+    "Hortifruti": {
+      "Frutas": {
+        "Frutas Comuns": ["Banana", "Maçã", "Laranja", "Mamão", "Uva", "Pera", "Melão"],
+        "Frutas Vermelhas": ["Morango", "Amora"],
+        "Frutas Cítricas": ["Limão"],
+        "Outras Frutas": ["Abacate", "Abacaxi", "Kiwi", "Outras Frutas"]
+      },
+      "Legumes": {
+        "Frutos": ["Tomate", "Abobrinha", "Berinjela", "Pepino", "Pimentão"],
+        "Outros Legumes": ["Chuchu", "Quiabo", "Outros Legumes"]
+      },
+      "Verduras e Hortaliças": {
+        "Folhas": ["Alface", "Couve", "Espinafre", "Rúcula"],
+        "Flores e Caules": ["Brócolis", "Couve-flor", "Aipo"],
+        "Outras Verduras": ["Acelga", "Outras Verduras"]
+      },
+      "Raízes e Tubérculos": {
+          "Tubérculos": ["Batata", "Batata-doce"],
+          "Raízes": ["Cenoura", "Cebola", "Alho", "Beterraba", "Mandioca (Aipim)"],
+          "Outras Raízes e Tubérculos": ["Inhame", "Gengibre", "Outras Raízes ou Tubérculos"]
+      },
+      "Ovos": ["Ovos de Galinha Brancos", "Ovos de Galinha Vermelhos", "Ovos de Codorna"],
+      "Temperos Frescos": ["Ervas Frescas (Salsinha, Alecrim, etc.)", "Pimentas Frescas"]
+    },
+    "Açougue e Peixaria": {
+      "Carne Bovina": ["Carne Bovina Cortes Tradicionais", "Cortes Nobres de Carne Bovina (Ancho, etc.)", "Carne Bovina Carne Moída"],
+      "Carne Suína": ["Cortes de Lombo Suíno", "Costela", "Bisteca", "Pernil"],
+      "Aves": ["Frango", "Peru", "Outras Aves"],
+      "Peixes e Frutos do Mar": ["Peixes de Água Doce", "Peixes de Água Salgada", "Frutos do Mar"],
+      "Processados": ["Linguiças", "Salsichas", "Bacon"]
+    },
+    "Alternativos de Carne (Vegetal)": {
+        "Substitutos de Carne": ["Hambúrguer Vegetal", "Empanado Vegetal", "Salsicha Vegetal"]
+    },
+    "Frios e Laticínios": {
+      "Leites e Bebidas Lácteas": ["Leite UHT", "Leite Fresco", "Leite em Pó", "Bebidas Lácteas"],
+      "Iogurtes": ["Iogurte Natural", "Iogurte com Sabores", "Iogurte Grego"],
+      "Queijos": ["Queijos Frescos", "Queijos Curados", "Queijos Processados"],
+      "Manteigas e Cremes": ["Manteiga", "Margarina", "Requeijão", "Cream Cheese"],
+      "Embutidos": ["Presunto", "Salame", "Mortadela", "Peito de Peru"],
+      "Massas Frescas": ["Massas de Lasanha", "Massas de Pizza", "Nhoque"]
+    },
+    "Padaria e Confeitaria": {
+      "Pães": ["Pão de Forma", "Pão Francês", "Pães Especiais"],
+      "Bolos e Tortas": ["Bolos Inteiros", "Fatias de Bolo", "Tortas Doces", "Tortas Salgadas"],
+      "Salgados e Biscoitos de Padaria": ["Salgados Assados", "Salgados Fritos", "Biscoitos"],
+      "Doces de Padaria": ["Sonhos", "Carolinas", "Brigadeiros", "Outros Doces"]
+    },
+    "Mercearia": {
+      "Cesta Básica": ["Arroz (Grão)", "Feijão", "Óleo de Cozinha", "Sal de Cozinha", "Açúcar Refinado"],
+      "Massas e Farinhas": ["Macarrão Seco", "Farinhas de Trigo", "Outras Farinhas", "Misturas para Bolo"],
+      "Condimentos e Molhos": ["Molhos de Tomate", "Maionese", "Ketchup", "Mostarda", "Temperos Secos", "Azeites", "Vinagres"],
+      "Enlatados e Conservas": ["Milho e Ervilha em Conserva", "Atum e Sardinha em Conserva", "Azeitonas em Conserva", "Palmito em Conserva", "Outros enlatados/conservas"],
+      "Café da Manhã": ["Café em Pó e Grãos", "Cápsulas de Café", "Chás", "Achocolatados", "Cereais Matinais", "Geleias"]
+    },
+    "Biscoitos, Doces e Snacks": {
+      "Biscoitos": ["Biscoito Doce (Recheado, Wafer, etc)", "Biscoito Salgado (Cream Cracker, Água e Sal, etc)", "Biscoito de Arroz", "Outros biscoitos/bolachas"],
+      "Doces e Sobremesas": ["Chocolates em Barra", "Bombons", "Balas e Gomas", "Sobremesas em Pó", "Outros Doces"],
+      "Snacks": ["Salgadinhos de Milho", "Batatas Fritas", "Barra de Cereal ou Nuts", "Amendoins e Castanhas"]
+    },
+    "Congelados": {
+      "Pratos Prontos": ["Lasanha Congelada", "Pizza Congelada", "Salgados Prontos Congelados (Esfiha, etc.)", "Outros Pratos Prontos Congelados"],
+      "Carnes e Peixes Congelados": ["Hambúrguer", "Steak de Frango", "Peixes Congelados"],
+      "Salgados Congelados": ["Pão de Queijo Congelado", "Salgados para Festa Congelados"],
+      "Frutas e Legumes Congelados": ["Legumes Seletados Congelados", "Frutas Vermelhas Congeladas", "Polpas de Fruta Congeladas", "Fruta Congelada"],
+      "Sorvetes e Sobremesas": ["Sorvete em Pote ou Massa", "Picolés", "Açaí"]
+    }
+  },
+  "Bebidas": {
+    "Não Alcoólicas": {
+      "Águas": ["Água Mineral Natural (sem gás)", "Água Mineral Carbonatada (com gás)"],
+      "Refrigerantes": ["Cola", "Guaraná", "Laranja", "Limão"],
+      "Sucos e Chás": ["Suco Pronto", "Chá Pronto", "Néctar de Frutas"],
+      "Xaropes e Pós": ["Xarope para Bebida", "Refresco em Pó"],
+      "Bebidas Especiais": ["Água de Coco", "Isotônicos", "Energéticos", "Leite Vegetal (Aveia, Castanha, etc.)", "Outras Bebidas"]
+    },
+    "Alcoólicas": {
+      "Cervejas": ["Cerveja Pilsen", "Cerveja Lager", "Cerveja Artesanal ou Especial"],
+      "Vinhos": ["Vinho Tinto", "Vinho Branco", "Vinho Rosé"],
+      "Espumantes": ["Espumante Brut", "Espumante Demi-Sec", "Espumante Moscatel"],
+      "Destilados": ["Cachaça", "Vodka", "Whisky", "Gin", "Outros Destilados"]
+    }
+  },
+  "Higiene e Beleza": {
+    "Cuidados com o Cabelo": {
+      "Shampoo e Condicionador": ["Shampoo", "Condicionador"],
+      "Tratamentos Capilares": ["Máscaras de Tratamento", "Cremes para Pentear"],
+      "Finalizadores": ["Gel de Cabelo", "Mousse de Cabelo", "Spray de Cabelo"]
+    },
+    "Cuidados com o Corpo": {
+      "Sabonetes": ["Sabonete em Barra", "Sabonete Líquido"],
+      "Hidratantes e Óleos": ["Hidratante Corporal", "Óleo Corporal"],
+      "Protetor Solar": ["Protetor Solar Corporal", "Protetor Solar Facial"],
+      "Desodorantes": ["Desodorante Aerossol", "Desodorante Roll-on", "Desodorante Creme"],
+      "Repelentes": ["Repelente de Insetos Corporal"]
+    },
+    "Higiene Bucal": {
+      "Creme Dental": [
+        "Creme Dental (Tradicional)",
+        "Creme Dental (Branqueador)",
+        "Creme Dental (para Sensibilidade)"
+      ],
+      "Escovas de Dente": [
+        "Escova de Dente (Cerdas Macias)",
+        "Escova de Dente (Cerdas Médias)",
+        "Escova de Dente (Cerdas Duras)"
+      ],
+      "Fio Dental": [
+        "Fio ou Fita Dental"
+      ],
+      "Enxaguante Bucal": [
+        "Enxaguante e Antisséptico Bucal"
+      ]
+    },
+    "Cuidados Faciais": {
+      "Limpeza de Pele": ["Sabonete Facial", "Água Micelar", "Tônico para pele"],
+      "Hidratante Facial": ["Creme Hidratante Facial", "Hidratante Facil Sérum"]
+    },
+    "Cuidados para Barbear": {
+        "Lâminas e Aparelhos": ["Aparelho de Barbear", "Carga para Aparelho"],
+        "Pré e Pós-Barba": ["Creme ou Espuma de Barbear", "Loção Pós-Barba"]
+    },
+    "Higiene Íntima": {
+      "Absorventes": ["Absorvente Higiênico Diurno", "Absorvente Noturno", "Protetor Diário", "Absorvente Interno"],
+      "Sabonete Íntimo": ["Sabonete Íntimo Líquido", "Sabonete Íntimo em Barra"]
+    }
+  },
+  "Limpeza": {
+    "Limpeza de Roupas": ["Sabão em Pó para Roupas", "Sabão Líquido para Roupas", "Amaciante", "Tira Manchas de Roupa"],
+    "Limpeza de Cozinha": ["Detergente para Louça", "Esponja de Aço ou Sintética", "Desengordurante", "Limpador de Cozinha", "Limpa Inox"],
+    "Limpeza de Banheiro": ["Água Sanitária", "Desinfetante para Banheiro", "Limpador de Vaso Sanitário"],
+    "Limpeza Geral": ["Limpador Multiuso", "Álcool", "Limpa Vidros", "Lustra Móveis"],
+    "Descartáveis": ["Saco de Lixo", "Papel Toalha", "Guardanapos", "Papel Higiênico"]
+  },
+  "Casa e Outros": {
+    "Pet Shop": {
+      "Alimentos para Pets": ["Ração Seca", "Ração Úmida", "Petiscos", "Outros Alimentos Pet"],
+      "Higiene Pet": ["Tapetes Higiênicos", "Areia para Gatos", "Shampoos Pet", "Outros Higiene Pet"]
+    },
+    "Utilidades Domésticas": {
+      "Itens de Cozinha": ["Papel Alumínio", "Filtro de Café", "Sacos para Alimentos"],
+      "Elétricos": ["Pilhas", "Lâmpadas"],
+      "Outros": ["Velas", "Fósforos", "Acendedores"]
+    }
+  },
+  "Bebês e Crianças": {
+    "Higiene do Bebê": {
+      "Fraldas": ["Fralda Descartável"],
+      "Cuidados com a Pele": ["Creme para Assaduras", "Lenço Umedecido"]
+    },
+    "Alimentação Infantil": {
+        "Leites e Fórmulas": ["Fórmula Infantil"],
+        "Comidas": ["Papinha Infantil", "Cereal Infantil"]
+    },
+    "Acessórios e Equipamentos": {
+        "Acessórios de Alimentação": ["Chupetas e Mamadeiras", "Cadeira de Alimentação"],
+        "Acessórios de Transporte": ["Carrinho de Bebê", "Assento de Elevação"],
+        "Outros Acessórios": ["Bomba de Tirar Leite"]
+    }
+  }
+}

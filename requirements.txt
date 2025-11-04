@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+transformers
+numpy
+scipy
+sentence-transformers
+torch
+accelerate
