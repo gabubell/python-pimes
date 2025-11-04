@@ -49,4 +49,4 @@ Por motivo de tempo/esforço para coleta manual dos dados (eu teria que ter NFe 
 
 Eu desisti de prosseguir com esse design pois o modelo LLM demora dias para rodar no meu computador para todos produtos (enquanto isso ele fica inutilizável) e ainda comete erros muito graves (mesmo após várias iterações na lista de produtos e modelos diferentes), tenho impressão que um algoritmo determinístico performaria melhor...
 
-Além disso, mesmo que o LLM perfomarsse bem, como são palavras, não consegui pensar em como estruturar um bom classificador para lidar com os embeddings nesse contexto. E por fim, o meu objetivo final é usar em NFe, onde o nome dos produtos é estruturalmente diferente dos produtos do mercado.
+Além disso, mesmo que o LLM perfomarsse bem, como são palavras, não consegui pensar em como estruturar um bom classificador para lidar com os embeddings nesse contexto. E por fim, o meu objetivo final é usar em NFe, onde o nome dos produtos é estruturalmente diferente dos produtos do mercado, ou seja, mesmo que conseguisse resultado +- satisfatório, tenho convicção de que ficaria ruim nesse novo formato, pelo que aprendi ao trabalhar com LLM.
